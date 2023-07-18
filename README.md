@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EduYanez
-- 👀 Since I'm a graduated Economist, I’m interested in quantitative analytics & research.
-- 🌱 I’m currently learning programming languages as Python and R, and MySQL for relational databases.
-- 💞️ I’m looking to collaborate on analytics projects, econometric tasks and Business Intelligence.
+- 👀 Since I'm a graduated Economist, I’m interested in quantitative analysis & research.
+- 🌱 I’m currently developing myself as a Data Science professional with programming and statistical skills.
 - 📫 How to reach me: You can always add and message me at LinkedIn! (see my profile)
